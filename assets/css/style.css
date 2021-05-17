@@ -4,7 +4,7 @@
 * {
   font-family: 'Noto Sans JP';
   font-weight: 400;
-  color: #333333;
+  color: #1D2D44;
 }
 
 body, p { 
@@ -20,7 +20,7 @@ form div {
   display: flex;
   flex-direction: column;
   padding: 20px;
-  background-color: #e8e8e8;
+  background-color: #293b666e;
   margin: 20px;
   border-radius: 5px;
 }
